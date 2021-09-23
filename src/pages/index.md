@@ -21,7 +21,7 @@ sections:
       - label: GITHUB
         url: '#'
         style: icon
-        icon: dribbble
+        icon: github
         new_window: false
         no_follow: false
   - type: portfolio_section
