@@ -20,5 +20,9 @@ seo:
     - name: 'twitter:image'
       value: images/eth.jpg
       relativeUrl: true
+    - name: 'twitter:title'
+      value: Investments
+      keyName: name
+      relativeUrl: false
 template: portfolio
 ---
