@@ -60,8 +60,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'twitter:card'
-      value: summary
   description: >-
     Digital Advertising Analyst with diverse experience optimizing localized
     search campaigns with measurable results.
