@@ -2,7 +2,7 @@
 title: The Book
 subtitle: Editorial Design
 date: '2020-04-10'
-thumb_image: images/Graph-Network-in-depth-part-1-desktop@3x.jpg
+thumb_image: images/uniswap.png
 thumb_image_alt: The Book preview
 sections:
   - type: image_section
