@@ -34,7 +34,7 @@ seo:
       value: 'Investment Overview: ($LYXE) Lukso Network.'
       keyName: property
     - name: 'og:image'
-      value: images/work-photography-magazine-1.jpg
+      value: images/lukso.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
