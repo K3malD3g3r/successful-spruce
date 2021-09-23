@@ -31,7 +31,7 @@ sections:
         title: Microsoft
       - image: images/Bastyr_University_Logo.png
         image_alt: Logo 2
-        title: Bas
+        title: 'Bastyr '
       - image_alt: Logo 3
       - image: images/CDK_Logo.svg
         image_alt: Logo 4
