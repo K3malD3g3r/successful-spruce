@@ -3,7 +3,6 @@ title: About Me
 hide_title: false
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
