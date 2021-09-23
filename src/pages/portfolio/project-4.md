@@ -44,7 +44,7 @@ seo:
     - name: 'twitter:description'
       value: 'Investment Overview: ($ETH) Ethereum.'
     - name: 'twitter:image'
-      value: images/work-book-1.jpg
+      value: images/eth.jpg
       relativeUrl: true
 template: project
 ---
