@@ -24,7 +24,7 @@ sections:
       ..
 seo:
   title: 'Kemal D - Investment: The Graph Protocol'
-  description: 'Investment: ($GRT) The Graph Protocol.'
+  description: 'Investment Overview: ($GRT) The Graph Protocol.'
   extra:
     - name: 'og:type'
       value: website
