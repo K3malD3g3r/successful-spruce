@@ -38,6 +38,7 @@ sections:
         image_alt: Logo 4
       - image: images/sincro_logo.svg
         image_alt: Logo 5
+        subtitle: Bastyr Uiversity
   - type: grid_section
     section_id: services
     title: Services
