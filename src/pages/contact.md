@@ -54,7 +54,7 @@ seo:
     - name: 'twitter:title'
       value: Kemal D - Contact
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Get In Touch.
     - name: 'og:image'
       value: images/cta-about.svg
       keyName: property
