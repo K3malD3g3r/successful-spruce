@@ -38,7 +38,7 @@ sections:
     submit_label: Send Message
 seo:
   title: Kemal D - Contact
-  description: This is the contact page
+  description: Get In Touch.
   extra:
     - name: 'og:type'
       value: website
