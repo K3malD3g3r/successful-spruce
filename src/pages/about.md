@@ -2,9 +2,6 @@
 title: About Me
 hide_title: false
 sections:
-  - section_id: lorem-ipsum
-    actions: []
-    type: hero_section
   - type: content_section
     content: >
       ##### Looking for a digital marketer who has built full-stack web
@@ -42,6 +39,9 @@ sections:
       [**RESUME**](https://docs.google.com/document/d/1L9dCaZu596v5n4iFlKW2z-zuzUQxWtPo)
     image_alt: Our team in the meeting room
     image: images/KEMAL PROFILE PIC-ed1b6585.jfif
+  - section_id: lorem-ipsum
+    actions: []
+    type: hero_section
   - type: cta_section
     section_id: cta
     title: What's on your mind?
