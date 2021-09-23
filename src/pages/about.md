@@ -62,7 +62,7 @@ seo:
       value: Learn More About Me.
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/KEMAL PROFILE PIC-b11df380.jfif
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
