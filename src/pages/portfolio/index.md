@@ -28,5 +28,9 @@ seo:
       value: Current Investments.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: My Current Investments.
+      keyName: name
+      relativeUrl: false
 template: portfolio
 ---
