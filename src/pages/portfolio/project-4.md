@@ -22,7 +22,7 @@ sections:
   - type: text_section
 seo:
   title: 'Kemal D - Investment: Ethereum'
-  description: This is the sample project description
+  description: 'Investment Overview: ($ETH) Ethereum.'
   extra:
     - name: 'og:type'
       value: website
