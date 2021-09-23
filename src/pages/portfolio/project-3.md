@@ -31,7 +31,7 @@ seo:
       value: 'Kemal D - Investment: Uniswap'
       keyName: property
     - name: 'og:description'
-      value: 'Investment Overview: ($BAT) Basic Attention Token.'
+      value: 'Investment Overview: ($UNI) Uniswap Protocol'
       keyName: property
     - name: 'og:image'
       value: images/work-book-cover-1.jpg
@@ -42,7 +42,7 @@ seo:
     - name: 'twitter:title'
       value: 'Kemal D - Investment: Uniswap'
     - name: 'twitter:description'
-      value: 'Investment Overview: ($BAT) Basic Attention Token.'
+      value: 'Investment Overview: ($UNI) Uniswap Protocol.'
     - name: 'twitter:image'
       value: images/work-book-cover-1.jpg
       relativeUrl: true
