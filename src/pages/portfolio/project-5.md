@@ -20,8 +20,6 @@ sections:
     image_alt: Nature Magazine 3
     width: wide
   - type: text_section
-    content: |
-      ..
 seo:
   title: Nature Magazine
   description: This is the sample project description
