@@ -49,8 +49,8 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: About Us
-  description: This is the about us page
+  title: Kemal D - About Me
+  description: Learn More About Me.
   extra:
     - name: 'og:type'
       value: website
