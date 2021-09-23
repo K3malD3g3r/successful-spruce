@@ -6,7 +6,7 @@ thumb_image: images/bat-edf4eec0.webp
 thumb_image_alt: Basic Attention Token
 sections:
   - type: image_section
-    image: images/work-branding-1.jpg
+    image: images/bat-7c9863c9.webp
     image_alt: Aimi 1
     caption: This is the caption of the image
     width: wide
