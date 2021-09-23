@@ -3,7 +3,7 @@ title: About me
 hide_title: false
 sections:
   - type: content_section
-    content: >+
+    content: >
       ##### Looking for a digital marketer who has built full-stack web
       applications, designed web pages and has database experience? Would it be
       a plus if they also had real world sales experience and a business
@@ -15,7 +15,6 @@ sections:
       All of my roles have involved interweaving 2 or more of these sub-sectors,
       thus this is an estimate of the cumulative experience I have gained in
       each of these areas.
-
 
 
       *   SEM: 6+ yrs
@@ -37,8 +36,9 @@ sections:
 
 
 
-      ![](images/resume-icon-png.png)
 
+      #
+      [**RESUME**](https://docs.google.com/document/d/1L9dCaZu596v5n4iFlKW2z-zuzUQxWtPo)
     image: images/KEMAL PROFILE PIC-be97122f.jfif
     image_alt: Our team in the meeting room
   - type: cta_section
