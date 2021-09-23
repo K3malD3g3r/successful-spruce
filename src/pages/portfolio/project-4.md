@@ -6,7 +6,7 @@ thumb_image: images/eth.jpg
 thumb_image_alt: Ethereum
 sections:
   - type: image_section
-    image: images/eth.jpg
+    image: images/ethereum.org wallpaper.PNG
     image_alt: Nature Mockup Magazine 1
     caption: www.ethereum.com
     width: wide
