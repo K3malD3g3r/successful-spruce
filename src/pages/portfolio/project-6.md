@@ -42,7 +42,7 @@ seo:
     - name: 'twitter:title'
       value: 'Kemal D - Investment: Lukso Network'
     - name: 'twitter:description'
-      value: This is the sample project description
+      value: 'Investment Overview: ($LYXE) Lukso Network.'
     - name: 'twitter:image'
       value: images/work-photography-magazine-1.jpg
       relativeUrl: true
