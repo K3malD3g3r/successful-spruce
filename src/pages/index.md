@@ -36,7 +36,7 @@ sections:
       - image_alt: Logo 3
       - image: images/CDK_Logo.svg
         image_alt: Logo 4
-      - image: images/sincro_logo.svg
+      - image: images/Bastyr_University_Logo.png
         image_alt: Logo 5
         subtitle: Web Developer & Email Marketing
         title: Bastyr University
