@@ -29,7 +29,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'twitter:description'
-      value: My Current Investments.
+      value: My Current Investment Portfolio.
       keyName: name
       relativeUrl: false
 template: portfolio
