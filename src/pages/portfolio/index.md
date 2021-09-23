@@ -21,7 +21,7 @@ seo:
       value: images/eth.jpg
       relativeUrl: true
     - name: 'twitter:title'
-      value: Investments
+      value: Kemal D - Investments
       keyName: name
       relativeUrl: false
     - name: 'og:description'
