@@ -13,7 +13,7 @@ sections:
       search campaigns with measurable results.
   - type: portfolio_section
     section_id: latest-projects
-    layout_style: tiles
+    layout_style: mosaic
     title: Investments
     subtitle: Learn More
     projects_number: 6
