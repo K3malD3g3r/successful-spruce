@@ -33,7 +33,7 @@ seo:
       value: 'Kemal D - Investment: The Graph Protocol'
       keyName: property
     - name: 'og:description'
-      value: This is the sample project description
+      value: 'Investment Overview: The Graph Protocol'
       keyName: property
     - name: 'og:image'
       value: images/Graph-Network-in-depth-part-1-desktop@3x.jpg
