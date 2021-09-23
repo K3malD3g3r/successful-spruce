@@ -3,7 +3,7 @@ title: Investments
 layout_style: mosaic
 seo:
   title: Kemal D - Investments
-  description: My current investments.
+  description: My Current Investments.
   extra:
     - name: 'og:type'
       value: website
