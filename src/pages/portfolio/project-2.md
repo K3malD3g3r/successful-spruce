@@ -1,5 +1,5 @@
 ---
-title: Aimi
+title: '($BAT) '
 subtitle: Brand Development
 date: '2020-03-10'
 thumb_image: images/bat-9492786c.webp
