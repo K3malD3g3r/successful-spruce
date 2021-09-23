@@ -21,7 +21,7 @@ sections:
     width: wide
   - type: text_section
 seo:
-  title: Subtle
+  title: 'Kemal D - Investment: Lukso Network'
   description: This is the sample project description
   extra:
     - name: 'og:type'
