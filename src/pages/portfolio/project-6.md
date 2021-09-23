@@ -44,7 +44,7 @@ seo:
     - name: 'twitter:description'
       value: 'Investment Overview: ($LYXE) Lukso Network.'
     - name: 'twitter:image'
-      value: images/work-photography-magazine-1.jpg
+      value: images/lukso.jpg
       relativeUrl: true
 template: project
 ---
