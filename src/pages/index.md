@@ -39,6 +39,7 @@ sections:
       - image: images/sincro_logo.svg
         image_alt: Logo 5
         subtitle: Web Developer & Email Marketing
+        title: Bastyr University
   - type: grid_section
     section_id: services
     title: Services
