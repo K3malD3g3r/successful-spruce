@@ -22,7 +22,7 @@ sections:
   - type: text_section
 seo:
   title: 'Kemal D - Investment: Cardano'
-  description: This is the sample project description
+  description: 'Investment Overview: ($ADA) Cardano.'
   extra:
     - name: 'og:type'
       value: website
