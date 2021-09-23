@@ -11,9 +11,6 @@ seo:
     - name: 'og:title'
       value: Portfolio
       keyName: property
-    - name: 'og:description'
-      value: This is the portfolio page
-      keyName: property
     - name: 'og:image'
       value: images/work-book-1.jpg
       keyName: property
