@@ -8,9 +8,10 @@ sections:
       applications, designed web pages and has database experience? &#xA;
 
 
-
-      Would it be a plus if they also had real world sales experience and a
+      #### Would it be a plus if they also had real world sales experience and a
       business background?
+
+
 
       I am seeking to be part of a team that can utilize my diverse experience
       and growth mindset.
