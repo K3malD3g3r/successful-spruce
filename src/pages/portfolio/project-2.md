@@ -46,7 +46,7 @@ seo:
     - name: 'twitter:description'
       value: 'Investment Overview: ($BAT) Basic Attention Token.'
     - name: 'twitter:image'
-      value: images/work-branding-1.jpg
+      value: images/bat-f888979d.webp
       relativeUrl: true
 template: project
 ---
