@@ -72,6 +72,10 @@ seo:
       value: images/KEMAL PROFILE PIC.jfif
       keyName: property
       relativeUrl: true
+    - name: 'twitter:description'
+      value: Digital Advertising Analyst & blockchain enthusiast.
+      keyName: name
+      relativeUrl: false
   description: Digital Advertising Analyst & blockchain enthusiast.
 template: advanced
 ---
