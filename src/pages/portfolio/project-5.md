@@ -34,7 +34,7 @@ seo:
       value: 'Investment Overview: ($ADA) Cardano.'
       keyName: property
     - name: 'og:image'
-      value: images/work-magazine-1.jpg
+      value: images/ada.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
