@@ -6,7 +6,7 @@ thumb_image: images/lukso.jpg
 thumb_image_alt: Lukso Network
 sections:
   - type: image_section
-    image: images/lukso-7b84f157.jpg
+    image: images/lukso network wallpaper.PNG
     image_alt: Subtle 1
     caption: www.lukso.network
     width: wide
