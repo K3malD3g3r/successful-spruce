@@ -1,6 +1,6 @@
 ---
 title: ($ADA) Cardano
-subtitle: Editorial Design
+subtitle: Cardano
 date: '2021-01-10'
 thumb_image: images/ada.png
 thumb_image_alt: Cardano
