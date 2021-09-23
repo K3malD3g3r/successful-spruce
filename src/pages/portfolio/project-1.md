@@ -23,7 +23,7 @@ sections:
     content: |
       ..
 seo:
-  title: The Graph Protocol
+  title: 'Kemal D - Investment: The Graph Protocol'
   description: 'Investment: ($GRT) The Graph Protocol.'
   extra:
     - name: 'og:type'
