@@ -63,7 +63,7 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: Kemal Deger
+  title: Kemal Deger - Home
   extra:
     - name: 'og:type'
       value: website
