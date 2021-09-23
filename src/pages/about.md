@@ -68,11 +68,11 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: Kemal D - About Me
     - name: 'twitter:description'
       value: Learn More About Me.
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: images/KEMAL PROFILE PIC-3fe699b3.jfif
       relativeUrl: true
 template: advanced
 ---
