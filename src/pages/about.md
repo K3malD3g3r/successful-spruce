@@ -4,14 +4,12 @@ hide_title: false
 sections:
   - type: content_section
     content: >
-      #####
-      ![](images/KEMAL%20PROFILE%20PIC-3b1517d8.jfif)&#xA;&#xA;&#xA;Looking for
-      a digital marketer who has built full-stack web applications, designed web
-      pages and has database experience? Would it be a plus if they also had
-      real world sales experience and a business background?&#xA;I am seeking to
-      be part of a team that can utilize my diverse experience and growth
-      mindset.&#xA;Above all I am a team player that always finds a way to boost
-      the people around me.
+      ##### Looking for a digital marketer who has built full-stack web
+      applications, designed web pages and has database experience? Would it be
+      a plus if they also had real world sales experience and a business
+      background?&#xA;I am seeking to be part of a team that can utilize my
+      diverse experience and growth mindset.&#xA;Above all I am a team player
+      that always finds a way to boost the people around me.
 
 
       All of my roles have involved interweaving 2 or more of these sub-sectors,
