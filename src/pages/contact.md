@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: "Let’s build something great together.\n\n\nComplete my contact form or send us an email at Contact (at) K3mal.com\n\n***\n\n## Location\n\n### Seattle, WA & REMOTE \U0001F30D\n"
+    content: "Let’s build something great together.\n\nComplete my contact form or send me an email at Contact (at) K3mal.com\n\n***\n\n## Location\n\n### Seattle, WA & REMOTE \U0001F30D\n"
     form_id: contactForm
     form_action: /thank-you
     form_fields:
