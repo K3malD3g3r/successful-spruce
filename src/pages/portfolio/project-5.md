@@ -44,7 +44,7 @@ seo:
     - name: 'twitter:description'
       value: 'Investment Overview: ($ADA) Cardano.'
     - name: 'twitter:image'
-      value: images/work-magazine-1.jpg
+      value: images/ada.png
       relativeUrl: true
 template: project
 ---
