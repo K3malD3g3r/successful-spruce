@@ -1,9 +1,9 @@
 ---
-title: Subtle
-subtitle: Brand Development
+title: ($LYXE) Lukso Network
+subtitle: Lukso Network
 date: '2021-02-06'
 thumb_image: images/lukso.jpg
-thumb_image_alt: Subtle preview
+thumb_image_alt: Lukso Network
 sections:
   - type: image_section
     image: images/work-photography-magazine-1.jpg

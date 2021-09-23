@@ -1,9 +1,9 @@
 ---
-title: Nature Magazine
-subtitle: Editorial Design
+title: ($ADA) Cardano
+subtitle: Cardano
 date: '2021-01-10'
 thumb_image: images/ada.png
-thumb_image_alt: Nature Magazine preview
+thumb_image_alt: Cardano
 sections:
   - type: image_section
     image: images/work-magazine-1.jpg
