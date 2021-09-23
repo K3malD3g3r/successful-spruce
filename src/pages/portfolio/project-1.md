@@ -24,7 +24,7 @@ sections:
       ..
 seo:
   title: The Graph Protocol
-  description: This is the sample project description
+  description: 'Investment: ($GRT) The Graph Protocol.'
   extra:
     - name: 'og:type'
       value: website
