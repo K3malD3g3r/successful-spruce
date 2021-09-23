@@ -25,7 +25,7 @@ sections:
     subtitle: A few of the companies i've had the pleasure to work with
     col_number: three
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/microsoft-logo-white-png.png
         image_alt: Logo 1
       - image: images/logo-2.svg
         image_alt: Logo 2
