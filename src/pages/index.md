@@ -32,7 +32,7 @@ sections:
       - image: images/sincro_logo.svg
         image_alt: Logo 2
         title: Sincro Digital
-        subtitle: Web Developer & Email Marketing
+        subtitle: Digtial Advertising Analytst
       - image_alt: Logo 3
       - image: images/CDK_Logo.svg
         image_alt: Logo 4
