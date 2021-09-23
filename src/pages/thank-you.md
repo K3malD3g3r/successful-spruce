@@ -10,4 +10,9 @@ sections:
         url: /
         style: button
 template: advanced
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
 ---
