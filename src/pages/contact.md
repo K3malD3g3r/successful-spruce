@@ -44,7 +44,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Kemal D - Contact
       keyName: property
     - name: 'og:description'
       value: This is the contact page
