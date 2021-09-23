@@ -39,7 +39,6 @@ sections:
       [**RESUME**](https://docs.google.com/document/d/1L9dCaZu596v5n4iFlKW2z-zuzUQxWtPo)
     image_alt: Our team in the meeting room
     title: About Me
-    subtitle: About Me & Resume
   - type: cta_section
     section_id: cta
     title: What's on your mind?
