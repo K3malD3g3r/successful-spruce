@@ -4,18 +4,18 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+
+      Above all I am a team player that always finds a way to boost the people
+      around me.
     title: >-
       Digital Advertising Analyst with diverse experience optimizing localized
       search campaigns with measurable results.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
-    title: Recent Work
-    subtitle: Explore case studies
+    title: Investments
+    subtitle: Learn More
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
