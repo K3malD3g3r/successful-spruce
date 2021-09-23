@@ -6,7 +6,7 @@ thumb_image: images/uniswap.png
 thumb_image_alt: Uniswap Protocol
 sections:
   - type: image_section
-    image: images/uniswap.png
+    image: images/uniswap wallpaper.PNG
     image_alt: The Book 1
     caption: www.uniswap.org
     width: wide
