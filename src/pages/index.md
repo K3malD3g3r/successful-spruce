@@ -19,7 +19,7 @@ sections:
         new_window: false
         no_follow: false
       - label: GITHUB
-        url: '#'
+        url: 'https://github.com/kedeger'
         style: icon
         icon: github
         new_window: false
