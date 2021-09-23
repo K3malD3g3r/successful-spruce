@@ -23,14 +23,14 @@ sections:
     width: wide
   - type: text_section
 seo:
-  title: Aimi
+  title: 'Kemal D - Investment: Basic Attention Token'
   description: This is the sample project description
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Aimi
+      value: 'Kemal D - Investment: Basic Attention Token'
       keyName: property
     - name: 'og:description'
       value: 'Investment Overview: ($BAT) Basic Attention Token.'
