@@ -38,16 +38,6 @@ sections:
       #
       [**RESUME**](https://docs.google.com/document/d/1L9dCaZu596v5n4iFlKW2z-zuzUQxWtPo)
     image_alt: Our team in the meeting room
-  - type: cta_section
-    section_id: cta
-    title: What's on your mind?
-    content: >
-      I'm always looking for great people to work with. If you are interested in
-      work or collaborations, please send an email to **Contact (at)
-      K3mal.com**.
-    image: images/cta-about.svg
-    image_alt: Illustration
-    bg_color: light
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
@@ -64,6 +54,16 @@ sections:
 
       - dolor sit amet
     type: content_section
+  - type: cta_section
+    section_id: cta
+    title: What's on your mind?
+    content: >
+      I'm always looking for great people to work with. If you are interested in
+      work or collaborations, please send an email to **Contact (at)
+      K3mal.com**.
+    image: images/cta-about.svg
+    image_alt: Illustration
+    bg_color: light
 seo:
   title: Kemal D - About Me
   description: Learn More About Me.
