@@ -17,11 +17,10 @@ sections:
   - type: cta_section
     section_id: cta
     title: What's on your mind?
-    content: >-
-      We are always looking for great people to join our team. If you are
-      interested in working for Agency, please send an email to
-      [email@example.com](mailto:email@example.com) with your CV and which
-      position you are interested in.
+    content: >
+      I'm *always *looking for great people to work with. If you are interested
+      in work or collaborations, please send an email to **Contact (at)
+      K3mal.com**.
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
