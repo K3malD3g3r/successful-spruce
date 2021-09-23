@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/lukso-7b84f157.jpg
     image_alt: Subtle 1
-    caption: This is the caption of the image
+    caption: www.lukso.network
     width: wide
   - type: text_section
     content: >-
