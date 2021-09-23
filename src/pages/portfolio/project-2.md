@@ -44,7 +44,7 @@ seo:
     - name: 'twitter:title'
       value: Aimi
     - name: 'twitter:description'
-      value: This is the sample project description
+      value: 'Investment Overview: ($BAT) Basic Attention Token.'
     - name: 'twitter:image'
       value: images/work-branding-1.jpg
       relativeUrl: true
