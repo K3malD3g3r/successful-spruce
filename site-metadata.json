@@ -36,7 +36,7 @@
     },
     "footer": {
         "content": "Created By Kemal D.",
-        "has_social": true,
+        "has_social": false,
         "social_links": [
             {
                 "label": "Twitter",
@@ -69,5 +69,6 @@
         ]
     },
     "title": "Kemal",
-    "domain": "https://k3mal.com"
+    "domain": "https://k3mal.com",
+    "favicon": "images/KEMAL PROFILE PIC-434af681.jfif"
 }
