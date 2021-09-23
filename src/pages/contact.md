@@ -25,7 +25,7 @@ sections:
         options:
           - Work
           - Consulting
-          - 'Investment '
+          - Ideas
       - input_type: textarea
         name: message
         label: Message
