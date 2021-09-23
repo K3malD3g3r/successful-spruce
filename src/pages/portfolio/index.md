@@ -24,5 +24,9 @@ seo:
       value: Investments
       keyName: name
       relativeUrl: false
+    - name: 'og:description'
+      value: Current Investments.
+      keyName: property
+      relativeUrl: false
 template: portfolio
 ---
