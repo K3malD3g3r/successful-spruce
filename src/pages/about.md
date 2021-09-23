@@ -56,7 +56,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: Kemal D - About Me
       keyName: property
     - name: 'og:description'
       value: Learn More About Me.
