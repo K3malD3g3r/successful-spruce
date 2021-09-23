@@ -40,9 +40,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Nature Magazine
+      value: 'Kemal D - Investment: Cardano'
     - name: 'twitter:description'
-      value: This is the sample project description
+      value: 'Investment Overview: ($ADA) Cardano.'
     - name: 'twitter:image'
       value: images/work-magazine-1.jpg
       relativeUrl: true
