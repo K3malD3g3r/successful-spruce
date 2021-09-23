@@ -1,7 +1,7 @@
 {
     "color_scheme": "dark",
     "accent_color": "green",
-    "base_font": "karla",
+    "base_font": "system-sans",
     "header": {
         "title": "KEMAL",
         "logo_alt": "Agency logo",
