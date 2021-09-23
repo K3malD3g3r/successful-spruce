@@ -36,6 +36,7 @@ sections:
       - image_alt: Logo 3
       - image: images/CDK_Logo.svg
         image_alt: Logo 4
+        title: CDK Global
       - image: images/Bastyr_University_Logo.png
         image_alt: Logo 5
         subtitle: Web Developer & Email Marketing
