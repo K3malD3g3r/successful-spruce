@@ -22,7 +22,7 @@ sections:
   - type: text_section
 seo:
   title: 'Kemal D - Investment: Lukso Network'
-  description: This is the sample project description
+  description: 'Investment Overview: ($LYXE) Lukso Network.'
   extra:
     - name: 'og:type'
       value: website
