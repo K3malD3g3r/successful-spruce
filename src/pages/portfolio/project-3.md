@@ -1,6 +1,6 @@
 ---
 title: ($UNI) Uniswap Protocol
-subtitle: Editorial Design
+subtitle: Uniswap Protocol
 date: '2020-04-10'
 thumb_image: images/uniswap.png
 thumb_image_alt: The Book preview
