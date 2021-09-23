@@ -31,7 +31,7 @@ seo:
       value: 'Kemal D - Investment: Ethereum'
       keyName: property
     - name: 'og:description'
-      value: ($ETH) Ethereum
+      value: 'Investment Overview: ($ETH) Ethereum.'
       keyName: property
     - name: 'og:image'
       value: images/work-book-1.jpg
