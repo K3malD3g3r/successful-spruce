@@ -1,6 +1,6 @@
 ---
 title: Nature Mockup Magazine
-subtitle: Editorial Design
+subtitle: Ethereum
 date: '2020-05-10'
 thumb_image: images/eth.jpg
 thumb_image_alt: Ethereum
