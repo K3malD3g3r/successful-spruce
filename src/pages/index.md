@@ -60,11 +60,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:description'
-      value: >-
-        We are a brand and design practice. We work closely with you, your team
-        to deliver inspiring work, which enables your organization to grow.
-      keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
