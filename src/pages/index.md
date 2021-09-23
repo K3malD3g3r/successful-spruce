@@ -8,9 +8,7 @@ sections:
 
       Above all I am a team player that always finds a way to boost the people
       around me.
-    title: >-
-      Digital Advertising Analyst with diverse experience optimizing localized
-      search campaigns with measurable results.
+    title: Digital Advertising Analyst & blockchain enthusiast.
     actions:
       - label: RESUME
         url: 'https://docs.google.com/document/d/1L9dCaZu596v5n4iFlKW2z-zuzUQxWtPo'
