@@ -34,7 +34,7 @@ seo:
       value: 'Investment Overview: ($UNI) Uniswap Protocol'
       keyName: property
     - name: 'og:image'
-      value: images/work-book-cover-1.jpg
+      value: images/uniswap.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
