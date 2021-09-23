@@ -24,7 +24,7 @@ sections:
   - type: text_section
 seo:
   title: 'Kemal D - Investment: Basic Attention Token'
-  description: This is the sample project description
+  description: 'Investment Overview: ($BAT) Basic Attention Token.'
   extra:
     - name: 'og:type'
       value: website
