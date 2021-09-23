@@ -31,7 +31,7 @@ seo:
       value: Nature Mockup Magazine
       keyName: property
     - name: 'og:description'
-      value: This is the sample project description
+      value: ($ETH) Ethereum
       keyName: property
     - name: 'og:image'
       value: images/work-book-1.jpg
