@@ -39,7 +39,6 @@ sections:
 
       #
       [**RESUME**](https://docs.google.com/document/d/1L9dCaZu596v5n4iFlKW2z-zuzUQxWtPo)
-    image: images/KEMAL PROFILE PIC-be97122f.jfif
     image_alt: Our team in the meeting room
   - type: cta_section
     section_id: cta
