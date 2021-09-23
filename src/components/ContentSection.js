@@ -12,7 +12,6 @@ export default class ContentSection extends React.Component {
                 {_.get(section, 'title', null) && (
                 <h2 className="section__title line-top">{_.get(section, 'title', null)}</h2>
                 )}
-                
                 {_.get(section, 'subtitle', null) && (
                 <p className="section__subtitle">{_.get(section, 'subtitle', null)}</p>
                 )}
