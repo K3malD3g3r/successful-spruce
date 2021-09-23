@@ -44,7 +44,7 @@ seo:
     - name: 'twitter:title'
       value: 'Kemal D - Investment: The Graph Protocol'
     - name: 'twitter:description'
-      value: This is the sample project description
+      value: 'Investment Overview: The Graph Protocol'
     - name: 'twitter:image'
       value: images/work-poster-1.jpg
       relativeUrl: true
