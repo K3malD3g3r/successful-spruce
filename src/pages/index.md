@@ -56,9 +56,6 @@ sections:
     bg_color: light
 seo:
   title: Kemal Deger
-  description: >-
-    We are a brand and design practice. We work closely with you, your team to
-    deliver inspiring work, which enables your organization to grow.
   extra:
     - name: 'og:type'
       value: website
