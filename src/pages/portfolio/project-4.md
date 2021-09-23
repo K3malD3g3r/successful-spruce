@@ -21,7 +21,7 @@ sections:
     width: wide
   - type: text_section
 seo:
-  title: Nature Mockup Magazine
+  title: 'Kemal D - Investment: Ethereum'
   description: This is the sample project description
   extra:
     - name: 'og:type'
