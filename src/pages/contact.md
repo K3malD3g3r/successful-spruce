@@ -24,7 +24,7 @@ sections:
         default_value: Please select
         options:
           - Work
-          - Design
+          - null
           - Digital
       - input_type: textarea
         name: message
