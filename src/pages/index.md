@@ -27,7 +27,6 @@ sections:
     grid_items:
       - image: images/microsoft-logo-white-png.png
         image_alt: Logo 1
-        title: Microsoft
         subtitle: Microsoft
       - image: images/Bastyr_University_Logo.png
         image_alt: Logo 2
