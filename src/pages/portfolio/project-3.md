@@ -44,7 +44,7 @@ seo:
     - name: 'twitter:description'
       value: 'Investment Overview: ($UNI) Uniswap Protocol.'
     - name: 'twitter:image'
-      value: images/work-book-cover-1.jpg
+      value: images/uniswap.png
       relativeUrl: true
 template: project
 ---
