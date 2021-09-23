@@ -44,7 +44,7 @@ seo:
     - name: 'twitter:title'
       value: 'Kemal D - Investment: The Graph Protocol'
     - name: 'twitter:description'
-      value: 'Investment Overview: The Graph Protocol'
+      value: 'Investment Overview: ($GRT) The Graph Protocol.'
     - name: 'twitter:image'
       value: images/Graph-Network-in-depth-part-1-desktop@3x.jpg
       relativeUrl: true
