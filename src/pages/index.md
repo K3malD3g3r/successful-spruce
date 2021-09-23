@@ -34,7 +34,7 @@ sections:
         title: Sincro Digital
         subtitle: Digtial Advertising Analyst
       - image_alt: Logo 3
-      - image: images/CDK_Logo.svg
+      - image: images/CDK_Logo.png
         image_alt: Logo 4
         title: CDK Global
         subtitle: Digital Advertising Analyst
