@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/cardano wallpaper.PNG
     image_alt: Nature Magazine 1
-    caption: This is the caption of the image
+    caption: www.cardano.org
     width: wide
   - type: text_section
     content: >-
