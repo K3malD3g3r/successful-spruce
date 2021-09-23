@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    content: "Accomplished Digital Marketing Account manager with proven success in driving innovation and early adoption of emerging technologies and platforms. Expert in managing high-profile relationships\_and scaling search engine marketing campaigns.\n\n"
+    content: "Accomplished Digital Marketing manager with proven success in driving innovation and early adoption of emerging technologies and platforms. Expert in managing high-profile relationships\_and scaling search engine marketing campaigns.\n"
     title: Digital Advertising Analyst & blockchain enthusiast.
     actions:
       - label: RESUME
