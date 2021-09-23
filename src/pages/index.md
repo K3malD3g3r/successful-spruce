@@ -4,10 +4,11 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    content: >
+    content: >+
+      Experienced in optimizing localized search campaigns with measurable
+      results and a team player that always finds a way to boost the people
+      around me. 
 
-      Above all I am a team player that always finds a way to boost the people
-      around me.
     title: Digital Advertising Analyst & blockchain enthusiast.
     actions:
       - label: RESUME
