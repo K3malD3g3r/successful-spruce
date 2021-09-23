@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Investments
+      value: Kemal D - Investments
       keyName: property
     - name: 'og:image'
       value: images/eth.jpg
