@@ -31,7 +31,7 @@ sections:
         title: Microsoft
       - image: images/sincro_logo.svg
         image_alt: Logo 2
-        title: Bastyr Uiversity
+        title: Sincro Digital
         subtitle: Web Developer & Email Marketing
       - image_alt: Logo 3
       - image: images/CDK_Logo.svg
