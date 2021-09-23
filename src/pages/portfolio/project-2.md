@@ -33,7 +33,7 @@ seo:
       value: Aimi
       keyName: property
     - name: 'og:description'
-      value: This is the sample project description
+      value: 'Investment Overview: ($BAT) Basic Attention Token.'
       keyName: property
     - name: 'og:image'
       value: images/work-branding-1.jpg
