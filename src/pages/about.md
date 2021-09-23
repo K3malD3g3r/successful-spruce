@@ -38,6 +38,7 @@ sections:
       #
       [**RESUME**](https://docs.google.com/document/d/1L9dCaZu596v5n4iFlKW2z-zuzUQxWtPo)
     image_alt: Our team in the meeting room
+    image: images/KEMAL PROFILE PIC-ed1b6585.jfif
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
