@@ -83,7 +83,7 @@ sections:
     section_id: cta
     title: Let’s Work Together!
     content: |
-      Say hello at Contact (at) K3mal.com or leave a message below.
+      Say hello at **Contact (at) K3mal.com** or leave a message below.
     actions:
       - label: Let's start
         url: /contact
