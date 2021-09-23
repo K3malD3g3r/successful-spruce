@@ -21,7 +21,7 @@ sections:
     width: wide
   - type: text_section
 seo:
-  title: Nature Magazine
+  title: 'Kemal D - Investment: Cardano'
   description: This is the sample project description
   extra:
     - name: 'og:type'
