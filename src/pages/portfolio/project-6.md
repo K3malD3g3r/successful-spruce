@@ -31,7 +31,7 @@ seo:
       value: Subtle
       keyName: property
     - name: 'og:description'
-      value: This is the sample project description
+      value: 'Investment Overview: ($LYXE) Lukso Network.'
       keyName: property
     - name: 'og:image'
       value: images/work-photography-magazine-1.jpg
