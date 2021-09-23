@@ -3,7 +3,7 @@ title: Investments
 layout_style: mosaic
 seo:
   title: Investments
-  description: This is the portfolio page
+  description: My current investments.
   extra:
     - name: 'og:type'
       value: website
