@@ -22,7 +22,7 @@ sections:
   - type: text_section
 seo:
   title: 'Kemal D - Investment: Uniswap'
-  description: 'Investment Overview: ($BAT) Basic Attention Token.'
+  description: 'Investment Overview: ($UNI) Uniswap Protocol'
   extra:
     - name: 'og:type'
       value: website
