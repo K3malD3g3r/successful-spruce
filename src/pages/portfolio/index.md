@@ -12,7 +12,7 @@ seo:
       value: Investments
       keyName: property
     - name: 'og:image'
-      value: images/work-book-1.jpg
+      value: images/eth.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
