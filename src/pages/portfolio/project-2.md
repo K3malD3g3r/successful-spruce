@@ -36,7 +36,7 @@ seo:
       value: 'Investment Overview: ($BAT) Basic Attention Token.'
       keyName: property
     - name: 'og:image'
-      value: images/work-branding-1.jpg
+      value: images/bat-b23433a6.webp
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
