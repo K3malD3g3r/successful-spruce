@@ -25,7 +25,7 @@ sections:
         options:
           - Work
           - Consulting
-          - Digital
+          - 'Investment '
       - input_type: textarea
         name: message
         label: Message
