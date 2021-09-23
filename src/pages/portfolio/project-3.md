@@ -21,7 +21,7 @@ sections:
     width: wide
   - type: text_section
 seo:
-  title: The Book
+  title: 'Kemal D - Investment: Basic Attention Token'
   description: This is the sample project description
   extra:
     - name: 'og:type'
