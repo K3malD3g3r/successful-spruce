@@ -3,15 +3,42 @@ title: About me
 hide_title: false
 sections:
   - type: content_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
+    content: >+
+      ##### Looking for a digital marketer who has built full-stack web
+      applications, designed web pages and has database experience? Would it be
+      a plus if they also had real world sales experience and a business
+      background?&#xA;I am seeking to be part of a team that can utilize my
+      diverse experience and growth mindset.&#xA;Above all I am a team player
+      that always finds a way to boost the people around me.
 
 
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+      All of my roles have involved interweaving 2 or more of these sub-sectors,
+      thus this is an estimate of the cumulative experience I have gained in
+      each of these areas.
+
+
+
+      *   SEM: 6+ yrs
+
+
+      *   SEO: 5+ yrs
+
+
+      *   Web Analytics: 7 yrs
+
+
+      *   Account Management & Sales: 5+ yrs
+
+
+      *   Email Marketing and Automation: 2+ yrs
+
+
+      *   Web Development & UI Design: 1+ yrs
+
+
+
+      ![](images/resume-icon-png.png)
+
     image: images/KEMAL PROFILE PIC-be97122f.jfif
     image_alt: Our team in the meeting room
   - type: cta_section
