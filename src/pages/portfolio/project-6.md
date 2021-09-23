@@ -28,7 +28,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Subtle
+      value: 'Kemal D - Investment: Lukso Network'
       keyName: property
     - name: 'og:description'
       value: 'Investment Overview: ($LYXE) Lukso Network.'
