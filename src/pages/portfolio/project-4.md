@@ -28,7 +28,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nature Mockup Magazine
+      value: 'Kemal D - Investment: Ethereum'
       keyName: property
     - name: 'og:description'
       value: ($ETH) Ethereum
@@ -40,9 +40,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Nature Mockup Magazine
+      value: 'Kemal D - Investment: Ethereum'
     - name: 'twitter:description'
-      value: This is the sample project description
+      value: 'Investment Overview: ($ETH) Ethereum.'
     - name: 'twitter:image'
       value: images/work-book-1.jpg
       relativeUrl: true
