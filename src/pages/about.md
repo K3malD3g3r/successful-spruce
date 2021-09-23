@@ -59,7 +59,7 @@ seo:
       value: About Me
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: 'Learn '
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
