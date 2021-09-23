@@ -40,7 +40,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Subtle
+      value: 'Kemal D - Investment: Lukso Network'
     - name: 'twitter:description'
       value: This is the sample project description
     - name: 'twitter:image'
