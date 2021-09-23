@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/Graph-Network-in-depth-part-1-desktop@3x.jpg
     image_alt: Design Is One 1
-    caption: This is the caption of the image
+    caption: www.thegraph.com/
     width: wide
   - type: text_section
     content: >-
