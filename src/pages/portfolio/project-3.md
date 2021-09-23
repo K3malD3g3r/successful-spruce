@@ -40,7 +40,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Kemal D - Investment: Basic Attention Token'
+      value: 'Kemal D - Investment: Uniswap'
     - name: 'twitter:description'
       value: 'Investment Overview: ($BAT) Basic Attention Token.'
     - name: 'twitter:image'
