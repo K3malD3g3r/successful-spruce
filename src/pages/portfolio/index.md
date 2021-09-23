@@ -18,7 +18,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:image'
-      value: images/work-book-1.jpg
+      value: images/eth.jpg
       relativeUrl: true
 template: portfolio
 ---
