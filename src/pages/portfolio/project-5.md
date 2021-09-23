@@ -31,7 +31,7 @@ seo:
       value: Nature Magazine
       keyName: property
     - name: 'og:description'
-      value: This is the sample project description
+      value: 'Investment Overview: ($ADA) Cardano.'
       keyName: property
     - name: 'og:image'
       value: images/work-magazine-1.jpg
