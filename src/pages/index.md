@@ -12,7 +12,7 @@ sections:
       Digital Advertising Analyst with diverse experience optimizing localized
       search campaigns with measurable results.
     actions:
-      - label: lorem-ipsum
+      - label: RESUME
         url: '#'
         style: link
         icon: dribbble
