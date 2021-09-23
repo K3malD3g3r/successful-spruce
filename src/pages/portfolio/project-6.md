@@ -1,6 +1,6 @@
 ---
 title: ($LYXE) Lukso Network
-subtitle: Brand Development
+subtitle: Lukso Network
 date: '2021-02-06'
 thumb_image: images/lukso.jpg
 thumb_image_alt: Lukso Network
