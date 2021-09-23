@@ -1,5 +1,5 @@
 ---
-title: Design Is One
+title: '($GRT) The Graph '
 subtitle: Print
 date: '2020-02-10'
 thumb_image: images/Graph-Network-in-depth-part-1-desktop@3x.jpg
