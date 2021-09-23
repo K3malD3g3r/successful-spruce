@@ -6,7 +6,7 @@ thumb_image: images/ada.png
 thumb_image_alt: Cardano
 sections:
   - type: image_section
-    image: images/work-magazine-1.jpg
+    image: images/ada.png
     image_alt: Nature Magazine 1
     caption: This is the caption of the image
     width: wide
