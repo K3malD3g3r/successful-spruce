@@ -31,7 +31,7 @@ seo:
       value: The Book
       keyName: property
     - name: 'og:description'
-      value: This is the sample project description
+      value: 'Investment Overview: ($BAT) Basic Attention Token.'
       keyName: property
     - name: 'og:image'
       value: images/work-book-cover-1.jpg
