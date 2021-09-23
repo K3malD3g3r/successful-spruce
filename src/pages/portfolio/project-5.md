@@ -28,7 +28,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nature Magazine
+      value: Kemal
       keyName: property
     - name: 'og:description'
       value: 'Investment Overview: ($ADA) Cardano.'
