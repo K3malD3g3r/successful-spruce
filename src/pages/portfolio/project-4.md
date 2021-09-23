@@ -16,8 +16,6 @@ sections:
     image_alt: Nature Mockup Magazine 2
     width: wide
   - type: text_section
-    content: |
-      ..
   - type: image_section
     image_alt: Nature Mockup Magazine 3
     width: wide
