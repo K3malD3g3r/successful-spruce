@@ -37,7 +37,7 @@ sections:
           can be contacted.
     submit_label: Send Message
 seo:
-  title: Contact
+  title: Kemal D - Contact
   description: This is the contact page
   extra:
     - name: 'og:type'
