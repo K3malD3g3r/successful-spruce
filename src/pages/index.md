@@ -76,5 +76,8 @@ seo:
       value: >-
         We are a brand and design practice. We work closely with you, your team
         to deliver inspiring work, which enables your organization to grow.
+  description: >-
+    Digital Advertising Analyst with diverse experience optimizing localized
+    search campaigns with measurable results.
 template: advanced
 ---
