@@ -42,7 +42,7 @@ seo:
     - name: 'twitter:title'
       value: The Book
     - name: 'twitter:description'
-      value: This is the sample project description
+      value: 'Investment Overview: ($BAT) Basic Attention Token.'
     - name: 'twitter:image'
       value: images/work-book-cover-1.jpg
       relativeUrl: true
