@@ -13,7 +13,6 @@ sections:
   - type: text_section
     content: "## Introduction\n\n\r\nLUKSO will introduce standards and tools that will enable a new economy based on Cultural Currencies, Digital Certificates and Universal Public Profiles.\n\n## &#xA;Universal Public Profiles\n\n\r\nBlockchain-based user and company profiles enable permanent identifiers in the digital world. They allow for universal login's that make remembering username and password a thing of the past, while giving you full control of all your virtual assets.\n\nUniversal profiles make economic and verifiable interactions possible and are the core building block for the new creative economies.\n\n\n\n## Digital Certificates\n\n\r\nBy establishing a digital identity for physical and digital products, we enable new forms of digital ownership.\n\nLUKSO introduces an additional digital layer to the ownership of creative goods that make unique characteristics permanently visible. Each product can be linked to a corresponding record of data, bridging the physical and the virtual world and their communities.\n\n\n\n## Cultural Currencies\n\n\r\nTokens are a new form of interest, status, participation, and value on a global scale. They are cultural currencies and attach measurable and transferable value to all socio-creative activity. Digital tokens can act as the connective medium for lifestyle communities, which makes them valuable, participative, and inclusive.\n"
   - type: image_section
-    image: images/work-photography-magazine-2.jpg
     image_alt: Subtle 2
     width: wide
   - type: text_section
