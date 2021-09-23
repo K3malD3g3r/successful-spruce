@@ -3,7 +3,7 @@ title: ($GRT) The Graph Protocol
 subtitle: The Graph Protocol
 date: '2020-02-10'
 thumb_image: images/Graph-Network-in-depth-part-1-desktop@3x.jpg
-thumb_image_alt: Design Is One preview
+thumb_image_alt: The Graph Protocol
 sections:
   - type: image_section
     image: images/work-poster-1.jpg
