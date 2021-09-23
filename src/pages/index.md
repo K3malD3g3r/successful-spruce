@@ -18,7 +18,7 @@ sections:
         icon: github
         new_window: false
         no_follow: false
-      - label: lorem-ipsum
+      - label: GITHUB
         url: '#'
         style: link
         icon: dribbble
