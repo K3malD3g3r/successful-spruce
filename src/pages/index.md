@@ -15,7 +15,7 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     title: Investments
-    subtitle: Explore case studies
+    subtitle: View
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
