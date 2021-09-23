@@ -14,7 +14,7 @@ sections:
     actions:
       - label: RESUME
         url: 'https://docs.google.com/document/d/1L9dCaZu596v5n4iFlKW2z-zuzUQxWtPo'
-        style: link
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false
