@@ -29,7 +29,7 @@ sections:
         image_alt: Logo 1
         subtitle: SEM Account Manager
         title: Microsoft
-      - image: images/Bastyr_University_Logo.png
+      - image: images/sincro_logo.svg
         image_alt: Logo 2
         title: Bastyr Uiversity
         subtitle: Web Developer & Email Marketing
