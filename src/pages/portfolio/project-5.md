@@ -11,15 +11,28 @@ sections:
     caption: www.cardano.org
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      Cardano is a decentralised platform that will allow complex programmable
+      transfers of value in a secure and scalable fashion. It is one of the
+      first blockchains to be built in the highly secure Haskell programming
+      language. Cardano is developing a smart contract platform which seeks to
+      deliver more advanced features than any protocol previously developed. It
+      is the first blockchain platform to evolve out of a scientific philosophy
+      and a research-first driven approach. The development team consists of a
+      large global collective of expert engineers and researchers.
+
+
+      The Cardano project is different from other blockchain projects as it
+      openly addresses the need for regulatory oversight whilst maintaining
+      consumer privacy and protections through an innovative software
+      architecture. The protocol features a layered blockchain software stack
+      that is flexible, scalable, and is being developed with the most rigorous
+      academic and commercial software standards in the industry.
+
+
+      Cardano will use a democratic governance system that allows the project to
+      evolve over time, and fund itself sustainably through a visionary treasury
+      system.
   - type: image_section
     image: images/work-magazine-2.jpg
     image_alt: Nature Magazine 2
