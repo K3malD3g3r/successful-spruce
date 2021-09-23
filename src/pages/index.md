@@ -8,6 +8,9 @@ sections:
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
       talk](/contact/).
+    title: >-
+      Digital Advertising Analyst with diverse experience optimizing localized
+      search campaigns with measurable results.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
