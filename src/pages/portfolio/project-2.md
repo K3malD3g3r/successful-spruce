@@ -42,7 +42,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Aimi
+      value: 'Kemal D - Investment: '
     - name: 'twitter:description'
       value: 'Investment Overview: ($BAT) Basic Attention Token.'
     - name: 'twitter:image'
