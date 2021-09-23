@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Portfolio
+      value: Investments
       keyName: property
     - name: 'og:image'
       value: images/work-book-1.jpg
