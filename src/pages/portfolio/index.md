@@ -2,7 +2,7 @@
 title: Investments
 layout_style: mosaic
 seo:
-  title: Portfolio
+  title: Investments
   description: This is the portfolio page
   extra:
     - name: 'og:type'
