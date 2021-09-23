@@ -23,7 +23,7 @@ sections:
     content: |
       ..
 seo:
-  title: Design Is One
+  title: The Graph Protocol
   description: This is the sample project description
   extra:
     - name: 'og:type'
