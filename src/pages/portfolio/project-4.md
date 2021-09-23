@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/eth.jpg
     image_alt: Nature Mockup Magazine 1
-    caption: This is the caption of the image
+    caption: www.ethereum.com
     width: wide
   - type: text_section
     content: >-
