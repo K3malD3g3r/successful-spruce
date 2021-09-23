@@ -15,7 +15,11 @@ export default class ContentSection extends React.Component {
                 {_.get(section, 'subtitle', null) && (
                 <p className="section__subtitle">{_.get(section, 'subtitle', null)}</p>
                 )}
-                
+                 {_.get(section, 'image', null) && (
+                <figure className="section__image">
+                  <img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} />
+                </figure>
+                )}
                 {_.get(section, 'content', null) && (
                 <div className="section__body text-block">
                   {markdownify(_.get(section, 'content', null))}
