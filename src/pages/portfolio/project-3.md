@@ -21,7 +21,7 @@ sections:
     width: wide
   - type: text_section
 seo:
-  title: 'Kemal D - Investment: Basic Attention Token'
+  title: 'Kemal D - Investment: Uniswap'
   description: 'Investment Overview: ($BAT) Basic Attention Token.'
   extra:
     - name: 'og:type'
