@@ -72,8 +72,6 @@ seo:
       value: images/KEMAL PROFILE PIC.jfif
       keyName: property
       relativeUrl: true
-  description: >-
-    Digital Advertising Analyst with diverse experience optimizing localized
-    search campaigns with measurable results.
+  description: Digital Advertising Analyst & blockchain enthusiast.
 template: advanced
 ---
