@@ -21,7 +21,7 @@ sections:
     view_all_url: portfolio
   - type: grid_section
     section_id: clients
-    title: Clients
+    title: Experience
     subtitle: A few of the companies we're proud to call partners
     col_number: three
     grid_items:
