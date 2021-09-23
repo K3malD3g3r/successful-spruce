@@ -27,7 +27,7 @@ sections:
     grid_items:
       - image: images/microsoft-logo-white-png.png
         image_alt: Logo 1
-      - image: images/logo-2.svg
+      - image: images/CDK_Logo.svg
         image_alt: Logo 2
       - image: images/logo-3.svg
         image_alt: Logo 3
