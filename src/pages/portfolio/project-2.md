@@ -27,7 +27,6 @@ sections:
     content: |
       ..
   - type: image_section
-    image: images/work-branding-3.jpg
     image_alt: Aimi 3
     width: wide
   - type: text_section
