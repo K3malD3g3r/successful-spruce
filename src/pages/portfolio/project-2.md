@@ -24,11 +24,8 @@ sections:
     image_alt: Aimi 2
     width: wide
   - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+    content: |
+      ..
   - type: image_section
     image: images/work-branding-3.jpg
     image_alt: Aimi 3
