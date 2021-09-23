@@ -55,5 +55,9 @@ seo:
       value: Contact
     - name: 'twitter:description'
       value: This is the contact page
+    - name: 'og:image'
+      value: images/cta-about.svg
+      keyName: property
+      relativeUrl: true
 template: advanced
 ---
