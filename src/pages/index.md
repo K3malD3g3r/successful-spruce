@@ -32,7 +32,7 @@ sections:
       - image: images/sincro_logo.svg
         image_alt: Logo 2
         title: Sincro Digital
-        subtitle: Digtial Advertising Analytst
+        subtitle: Digtial Advertising Analyst
       - image_alt: Logo 3
       - image: images/CDK_Logo.svg
         image_alt: Logo 4
