@@ -20,8 +20,6 @@ seo:
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
-    - name: 'twitter:title'
-      value: Portfolio
     - name: 'twitter:description'
       value: This is the portfolio page
     - name: 'twitter:image'
