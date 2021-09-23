@@ -34,7 +34,7 @@ seo:
       value: 'Investment Overview: ($ETH) Ethereum.'
       keyName: property
     - name: 'og:image'
-      value: images/work-book-1.jpg
+      value: images/eth.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
