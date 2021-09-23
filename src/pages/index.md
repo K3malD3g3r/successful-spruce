@@ -38,7 +38,7 @@ sections:
         image_alt: Logo 4
         title: CDK Global
         subtitle: Digital Advertising Analyst
-      - image: images/download.png
+      - image: images/Bastyr_University_Logo-5e464321.png
         image_alt: Logo 5
         subtitle: Web Developer & Email Marketing
         title: Bastyr University
