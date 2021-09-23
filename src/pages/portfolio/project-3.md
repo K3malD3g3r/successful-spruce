@@ -28,7 +28,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: The Book
+      value: 'Kemal D - Investment: Basic Attention Token'
       keyName: property
     - name: 'og:description'
       value: 'Investment Overview: ($BAT) Basic Attention Token.'
