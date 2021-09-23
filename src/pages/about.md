@@ -18,8 +18,8 @@ sections:
     section_id: cta
     title: What's on your mind?
     content: >
-      I'm *always *looking for great people to work with. If you are interested
-      in work or collaborations, please send an email to **Contact (at)
+      I'm always looking for great people to work with. If you are interested in
+      work or collaborations, please send an email to **Contact (at)
       K3mal.com**.
     image: images/cta-about.svg
     image_alt: Illustration
